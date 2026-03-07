@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">My name is Ahmed and I'm a Programer from Egypt</h1>
+<h1 align="left">My name is Ahmed, I'm a Programer from Egypt</h1>
 
 ###
 
