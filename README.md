@@ -1,14 +1,57 @@
+<style>
+  /* لجعل الأيقونات الاجتماعية في صف أفقي ومركزة */
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 20px 0;
+  }
+  .social-icons a {
+    display: inline-block;
+    transition: transform 0.3s ease, filter 0.3s ease;
+  }
+  .social-icons a:hover {
+    transform: translateY(-5px) scale(1.1);
+    filter: drop-shadow(0 0 8px rgba(0, 191, 255, 0.6));
+  }
+  /* تنسيق زر البورتفوليو */
+  .portfolio-btn {
+    display: inline-block;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 8px 18px;
+    border-radius: 40px;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  }
+  .portfolio-btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 25px rgba(102,126,234,0.4);
+    background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
+  }
+  /* تحسين شكل العدادات */
+  .badges-line {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+</style>
+
 <h1 align="center">Hey 👋, I'm Ahmed Saad (RFRF)</h1>
 <h3 align="center">Full-Stack Web Developer | Code Alchemist | Open Source Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedSaadRF&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+<div class="badges-line">
+  <img src="https://komarev.com/ghpvc/?username=AhmedSaadRF&label=Profile%20Views&color=0e75b6&style=flat" alt="views" />
   <img src="https://img.shields.io/github/followers/AhmedSaadRF?label=Followers&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/AhmedSaadRF?label=Stars&style=social" alt="stars" />
-  <a href="https://ahmed-alrefaey.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ahmed--alrefaey.vercel.app-blue?style=flat&logo=vercel" alt="portfolio" />
+  <a href="https://ahmed-alrefaey.vercel.app/" target="_blank" class="portfolio-btn" style="color: white; font-family: sans-serif;">
+    🚀 Portfolio
   </a>
-</p>
+</div>
 
 ---
 
@@ -26,17 +69,17 @@
 
 ### Frontend
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="ts" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
   <img width="12" />
@@ -46,7 +89,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="mui" />
 </div>
 
 ### Backend
@@ -73,7 +116,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
   <img width="12" />
@@ -97,9 +140,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedSaadRF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaadRF&layout=compact&langs_count=8&theme=dracula"/>
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSaadRF&theme=dracula" alt="streak stats"/>
 </p>
 
@@ -107,30 +148,30 @@
 
 ## 🤝 Connect With Me
 
-<div align="center">
+<div class="social-icons">
   <a href="https://www.linkedin.com/in/ahmed-saad-833819366/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" alt="linkedin" />
   </a>
   <a href="discordapp.com/users/935225365180338236" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="48" alt="discord" />
   </a>
   <a href="https://x.com/AHMED76865307" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="48" alt="twitter" />
   </a>
   <a href="http://t.me/AhmedSaadAlrefaey" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="48" alt="telegram" />
   </a>
   <a href="https://wa.me/+201063596560" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="48" alt="whatsapp" />
   </a>
   <a href="https://www.instagram.com/ahmed7_707_7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="48" alt="instagram" />
   </a>
   <a href="https://codepen.io/AhmedSaadRF" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="52" height="40" alt="codepen" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="48" height="48" alt="codepen" />
   </a>
   <a href="mailto:ahmedsaadalrefaey7@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="48" alt="email" />
   </a>
 </div>
 
