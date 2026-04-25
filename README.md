@@ -1,24 +1,26 @@
-<h1 align="center">Hey 👋, I'm Ahmed Saad (RFRF)</h1>
-<h3 align="center">Full-Stack Web Developer | Code Alchemist | Open Source Enthusiast</h3>
+# 👋 Hey, I'm Ahmed Saad (RFRF)
+
+### 🚀 Full-Stack Web Developer | Code Alchemist | Open Source Enthusiast
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AhmedSaadRF&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/AhmedSaadRF?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/AhmedSaadRF?label=Stars&style=social" />
+  <!-- Badges are guaranteed to appear side by side -->
   <a href="https://ahmed-alrefaey.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_Portfolio-ahmed--alrefaey.vercel.app-blue?style=flat&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-ahmed--alrefaey.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=AhmedSaadRF&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen" />
+  <img src="https://img.shields.io/github/followers/AhmedSaadRF?label=FOLLOWERS&style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/stars/AhmedSaadRF?label=STARS&style=for-the-badge&logo=github&color=yellow" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 📖 About Me
 
-- 🎓 **Information Systems & CS** student @ Alexandria (Class of 2026/2027)
-- 💼 I build **full-stack web apps** using **React, Next.js, Node.js, Nest.js, MongoDB, MySQL**
-- 📈 **1.4k+ commits** on GitHub and counting
-- ⚡ Fun facts: **Anime lover** (One Piece is my vibe) , **Football fanatic** (Al-Ahly, Real Madrid, Liverpool), and **Bookworm**
-- 🎯 **Current goal:** Land a **junior dev role** and grow into a **Senior Full-Stack Developer** within 3 years
+- 🎓 **Information Systems & CS** student @ Alexandria (2026/2027)
+- 💻 **Full-stack developer** (React, Next.js, Node.js, Nest.js, MongoDB, MySQL)
+- 📈 **1.4k+ commits** and counting
+- ⚡ **Anime** (One Piece), **Football** (Al-Ahly, Real Madrid, Liverpool), **Books**
+- 🎯 **Goal:** Junior dev → Senior Full-Stack
 
 ---
 
@@ -26,57 +28,57 @@
 
 ### Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white" />
 </p>
 
 ### Backend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 ### Languages & Tools
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="40" style="margin-right: 10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" width="40" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedSaadRF&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaadRF&layout=compact&langs_count=8&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmedSaadRF&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaadRF&layout=compact&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSaadRF&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSaadRF&theme=radical" />
 </p>
 
 ---
@@ -84,32 +86,14 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-saad-833819366/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" style="margin: 0 8px;" />
-  </a>
-  <a href="discordapp.com/users/935225365180338236">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="48" height="48" style="margin: 0 8px;" />
-  </a>
-  <a href="https://x.com/AHMED76865307">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="48" height="48" style="margin: 0 8px;" />
-  </a>
-  <a href="http://t.me/AhmedSaadAlrefaey">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="48" height="48" style="margin: 0 8px;" />
-  </a>
-  <a href="https://wa.me/+201063596560">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="48" height="48" style="margin: 0 8px;" />
-  </a>
-  <a href="https://www.instagram.com/ahmed7_707_7/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="48" style="margin: 0 8px;" />
-  </a>
-  <a href="https://codepen.io/AhmedSaadRF">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="48" height="48" style="margin: 0 8px;" />
-  </a>
-  <a href="mailto:ahmedsaadalrefaey7@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="48" style="margin: 0 8px;" />
-  </a>
+  <a href="https://www.linkedin.com/in/ahmed-saad-833819366/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/AHMED76865307"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="http://t.me/AhmedSaadAlrefaey"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://wa.me/+201063596560"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ahmed7_707_7/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ahmedsaadalrefaey7@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐️ **Feel free to explore my repositories and reach out for collaboration!**
+⭐️ **Check out my pinned repositories below!**
